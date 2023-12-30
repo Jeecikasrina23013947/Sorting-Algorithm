@@ -64,6 +64,7 @@ insertion_sort(list_of_nums)
 ## Output:
 i)	#Selection Sort
 ![image](https://github.com/Jeecikasrina23013947/Sorting-Algorithm/assets/148515300/a2bd1f55-07cd-4908-8935-0882c478cbd3)
+
 ii)	#Insertion Sort
 ![image](https://github.com/Jeecikasrina23013947/Sorting-Algorithm/assets/148515300/45fb04fd-f31e-4b3d-9ef1-d36e116eabe4)
 
